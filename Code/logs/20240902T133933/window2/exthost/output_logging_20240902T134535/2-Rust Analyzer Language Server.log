@@ -1,0 +1,3 @@
+2024-09-02T08:15:40.472878Z ERROR failed to find any projects in [AbsPathBuf("/home/unixuser3/projects/hello_world")]
+2024-09-02T08:15:40.474484Z ERROR FetchWorkspaceError: rust-analyzer failed to discover workspace
+2024-09-02T08:15:40.484631Z ERROR FetchWorkspaceError: rust-analyzer failed to discover workspace

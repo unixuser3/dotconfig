@@ -1,0 +1,4 @@
+file:///home/unixuser3/projects/hello_cargo/src/main.rs {"mtime":1725271861958,"ctime":1725271861958,"size":45,"etag":"3d0dop1rs1e","orphaned":false,"typeId":""}
+fn main() {
+    println!("Hello, world!");
+}

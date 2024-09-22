@@ -1,0 +1,5 @@
+2024-09-02 13:39:34.635 [info] Started local extension host with pid 10954.
+2024-09-02 13:39:34.688 [info] Started initializing default profile extensions in extensions installation folder. file:///home/unixuser3/.vscode/extensions
+2024-09-02 13:39:34.917 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/unixuser3/.vscode/extensions
+2024-09-02 13:39:37.734 [info] [perf] Render performance baseline is 14ms
+2024-09-02 13:40:36.774 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: issueReporter.experimental.auxWindow

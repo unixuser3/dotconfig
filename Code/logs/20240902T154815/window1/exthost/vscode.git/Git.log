@@ -1,0 +1,49 @@
+2024-09-02 15:48:18.370 [info] [main] Log level: Info
+2024-09-02 15:48:18.370 [info] [main] Validating found git in: "git"
+2024-09-02 15:48:18.370 [info] [main] Using git "2.46.0" from "git"
+2024-09-02 15:48:18.370 [info] [Model][doInitialScan] Initial repository scan started
+2024-09-02 15:48:18.370 [info] > git rev-parse --show-toplevel [15ms]
+2024-09-02 15:48:18.371 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-09-02 15:48:18.377 [info] [Model][openRepository] Opened repository: /home/unixuser3/projects/guessing_game
+2024-09-02 15:48:18.386 [info] > git config --get commit.template [3ms]
+2024-09-02 15:48:18.386 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-02 15:48:18.390 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-02 15:48:18.409 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2024-09-02 15:48:18.409 [warning] [Git][getBranch] No such branch: master
+2024-09-02 15:48:18.426 [info] > git status -z -uall [13ms]
+2024-09-02 15:48:18.435 [info] > git rev-parse --show-toplevel [41ms]
+2024-09-02 15:48:18.436 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-09-02 15:48:18.456 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2024-09-02 15:48:18.456 [warning] [Git][getBranch] No such branch: master
+2024-09-02 15:48:18.457 [info] > git config --get commit.template [14ms]
+2024-09-02 15:48:18.487 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-02 15:48:18.492 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-09-02 15:48:18.492 [warning] [Git][getBranch] No such branch: master
+2024-09-02 15:48:18.498 [info] > git status -z -uall [2ms]
+2024-09-02 15:48:18.505 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-09-02 15:48:18.505 [warning] [Git][getBranch] No such branch: master
+2024-09-02 15:48:18.924 [info] > git check-ignore -v -z --stdin [1ms]
+2024-09-02 15:48:20.145 [info] > git check-ignore -v -z --stdin [2ms]
+2024-09-02 15:48:20.251 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-02 15:48:20.251 [info] > git config --get commit.template [4ms]
+2024-09-02 15:48:20.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-09-02 15:48:20.252 [warning] [Git][getBranch] No such branch: master
+2024-09-02 15:48:20.257 [info] > git status -z -uall [1ms]
+2024-09-02 15:48:20.262 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-09-02 15:48:20.262 [warning] [Git][getBranch] No such branch: master
+2024-09-02 15:48:20.827 [info] > git show --textconv :src/main.rs [5ms]
+2024-09-02 15:48:20.828 [info] > git ls-files --stage -- /home/unixuser3/projects/guessing_game/src/main.rs [2ms]
+2024-09-02 15:51:24.832 [info] > git config --get commit.template [1ms]
+2024-09-02 15:51:24.832 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-02 15:51:24.836 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-09-02 15:51:24.836 [warning] [Git][getBranch] No such branch: master
+2024-09-02 15:51:24.841 [info] > git status -z -uall [2ms]
+2024-09-02 15:51:24.847 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-09-02 15:51:24.847 [warning] [Git][getBranch] No such branch: master
+2024-09-02 15:51:38.787 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-02 15:51:38.787 [info] > git config --get commit.template [3ms]
+2024-09-02 15:51:38.788 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2024-09-02 15:51:38.788 [warning] [Git][getBranch] No such branch: master
+2024-09-02 15:51:38.791 [info] > git status -z -uall [1ms]
+2024-09-02 15:51:38.795 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-09-02 15:51:38.796 [warning] [Git][getBranch] No such branch: master

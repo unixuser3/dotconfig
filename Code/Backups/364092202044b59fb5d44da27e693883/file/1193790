@@ -1,0 +1,4 @@
+file:///home/unixuser3/projects/hello_world/main.rs {"mtime":1725264956461,"ctime":1725264940298,"size":44,"etag":"3d0df2qqb1d","orphaned":false,"typeId":""}
+fn main() {
+    println!("Hello, world!");
+}n
